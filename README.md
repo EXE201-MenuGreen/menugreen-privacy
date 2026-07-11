@@ -20,7 +20,7 @@ Privacy Policy cho ứng dụng **MenuGreen** - Mobile app đặt đồ ăn heal
 
 ## 📞 Liên hệ
 
-- **Email:** dangleanhtuanpaula@gmail.com
+- **Email:** dinhtheduc407@gmail.com
 - **Developer:** MenuGreen Team
 
 ## 🌐 Live Demo (GitHub Pages)
